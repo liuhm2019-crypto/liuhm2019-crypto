@@ -40,6 +40,6 @@ And many more...
 
 ## production
  - GooSkyS2MAXTelemeteringScript
- <div align="left" style="padding-left:200px;">
-   <img src="image/S2MAX.jpg" width="300" />
- </div>
+  <blockquote>
+    <img src="image/S2MAX.jpg" width="300" />
+  </blockquote>
