@@ -48,15 +48,9 @@ And many more...
       Specially optimized telemetry display script for GooSky S2MAX helicopter, providing real-time flight parameter monitoring, battery voltage alerts, and vibration analysis tailored for the S2MAX model.
     </td>
   </tr>
-<tr>
-    <td width="320"><img src="image/tx15pro.jpg" width="300" /></td>
-    <td valign="top">
-      <strong>GooSky S2MAX Telemetering Script</strong><br><br>
-      Specially optimized telemetry display script for GooSky S2MAX helicopter, providing real-time flight parameter monitoring, battery voltage alerts, and vibration analysis tailored for the S2MAX model.
-    </td>
-  </tr>
+ 
   <tr>
-    <td width="320"><img src="image/tx15pro.jpg" width="300" /></td>
+    <td width="320"><img src="image/tx15pro.png" width="300" /></td>
     <td valign="top">
       <strong>Tx15Pro Telemetry Interface</strong><br><br>
       A feature-rich telemetry display meticulously crafted for the RadioMaster Tx15Pro transmitter. Paired with the RadioMaster Nexus-X/XR gyroscope, it delivers a comprehensive and intuitive interface with extensive flight data visualization, empowering pilots with real-time insights for precision control.
