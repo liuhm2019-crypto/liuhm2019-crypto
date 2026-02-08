@@ -25,8 +25,8 @@ This Lua script provides real-time telemetry monitoring for your Rotorflight , d
 - **RSS Signal Monitoring**: Signal strength bar with loss counter
 - **Flight Timer Integration**: Automatic timer start/stop based on throttle
 - **Flight log recording function**: displaying rotational speed, battery consumption, and performance rate curve function, for better analysis of battery performance parameters.
-- **Vibration analysis**: provides real-time feedback on vibration information, assisting you in diagnosing the vibration sources of the machine.
-- **flight parameters**:The setting of flight parameters does not require entering the RF adjustment script interface. It can be directly set within this script interface.
+- **Vibration analysis(Tx16 MK3)**: provides real-time feedback on vibration information, assisting you in diagnosing the vibration sources of the machine.
+- **flight parameters(Tx16 MK3)**:The setting of flight parameters does not require entering the RF adjustment script interface. It can be directly set within this script interface.
 
 And many more...
 
@@ -81,4 +81,12 @@ And many more...
       View <a href="https://github.com/liuhm2019-crypto/DBK_Tx15MaxPro" target="_blank" >DBK_Tx15MaxPro</a>
     </td>
   </tr>
+  <tr>
+    <td width="320"><img src="image/mk3.png" width="300" /></td>
+    <td valign="top">
+      <strong>Tx16 MK3、Tx16 MK3 Max Telemetry Interface (Preview) </strong><br><br>
+      A feature-rich telemetry display meticulously crafted for the RadioMaster Tx16 MK3、Tx16 MK3 Max transmitter. Paired with the RadioMaster Nexus-X/XR gyroscope, it delivers a comprehensive and intuitive interface with extensive flight data visualization, empowering pilots with real-time insights for precision control.
+    </td>
+  </tr>
+  
 </table>
