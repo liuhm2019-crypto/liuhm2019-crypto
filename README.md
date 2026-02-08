@@ -38,6 +38,14 @@ And many more...
 - Telemetry link established (RF module and receiver bound)
 - MicroSD card (formatted FAT32)
 
-## production
- - GooSkyS2MAXTelemeteringScript
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="image/S2MAX.jpg" width="300" />
+## Production
+
+<table>
+  <tr>
+    <td width="320"><img src="image/S2MAX.jpg" width="300" /></td>
+    <td valign="top">
+      <strong>GooSky S2MAX Telemetering Script</strong><br><br>
+      Specially optimized telemetry display script for GooSky S2MAX helicopter, providing real-time flight parameter monitoring, battery voltage alerts, and vibration analysis tailored for the S2MAX model.
+    </td>
+  </tr>
+</table>
