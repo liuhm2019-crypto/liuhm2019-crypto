@@ -56,7 +56,7 @@ And many more...
     <td width="320"><img src="image/tx15base.jpg" width="300" /></td>
     <td valign="top">
       <strong>Tx15、Tx15Max、Tx16Mk2 Telemetry </strong><br><br>
-      A feature-rich telemetry display meticulously crafted for the RadioMaster Tx15、Tx16mk2 transmitter. Paired with the RadioMaster Nexus-X/XR gyroscope, it delivers a comprehensive and intuitive interface with extensive flight data visualization, empowering pilots with real-time insights for precision control.
+      A feature-rich telemetry display meticulously crafted for the RadioMaster Tx15、Tx15Max、Tx16mk2 transmitter. Paired with the RadioMaster Nexus-X/XR gyroscope, it delivers a comprehensive and intuitive interface with extensive flight data visualization, empowering pilots with real-time insights for precision control.
       View <a href="https://github.com/liuhm2019-crypto/RotorflightTelemeteringScript" target="_blank"> RotorflightTelemeteringScript</a>
     </td>
 
@@ -68,7 +68,7 @@ And many more...
     <td width="320"><img src="image/Tx15mini.png" width="300" /></td>
     <td valign="top">
       <strong>Tx15、Tx15Max、Tx16Mk2 Telemetry Interface</strong><br><br>
-      A feature-rich telemetry display meticulously crafted for the RadioMaster Tx15Pro transmitter. Paired with the RadioMaster Nexus-X/XR gyroscope, it delivers a comprehensive and intuitive interface with extensive flight data visualization, empowering pilots with real-time insights for precision control.
+      A feature-rich telemetry display meticulously crafted for the RadioMaster Tx15、Tx15Max、Tx16mk2 transmitter. Paired with the RadioMaster Nexus-X/XR gyroscope, it delivers a comprehensive and intuitive interface with extensive flight data visualization, empowering pilots with real-time insights for precision control.
       View <a href="https://github.com/liuhm2019-crypto/DBK_Tx15MaxMini" target="_blank" >DBK_Tx15MaxMini</a>
     </td>
   </tr>
