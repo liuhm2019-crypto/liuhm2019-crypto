@@ -38,3 +38,6 @@ And many more...
 - Telemetry link established (RF module and receiver bound)
 - MicroSD card (formatted FAT32)
 
+## production
+ - GooSkyS2MAXTelemeteringScript
+  <img src="image/S2MAX.jpg" width="300" />
