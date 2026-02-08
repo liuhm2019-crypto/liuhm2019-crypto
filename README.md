@@ -4,7 +4,7 @@
 
 # RadioMaster Remote Controller Telemetry Return Interface
 
-A comprehensive telemetry display component specially designed for the Rotolift helicopter, and it works even better when used in conjunction with the RadioMaster transmitter. The tests that have been completed include Tx15, Tx15Max, Tx16s Mk2, and Tx16Mk2.
+A comprehensive telemetry display component specially designed for the Rotolift helicopter, and it works even better when used in conjunction with the RadioMaster transmitter. The tests that have been completed include Tx15, Tx15Max, Tx16s Mk2, and Tx16Mk3.
 
 <div align="center">
   <img src="image/tx16mk3.png" width="150" />
