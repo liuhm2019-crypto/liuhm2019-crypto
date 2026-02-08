@@ -92,7 +92,8 @@ And many more...
 </table>
 
 ## Donate
-  If you find DBK Telemetry Script useful, please consider supporting the development by donating to the DBK Telemetry Script Project. PayPai : aliuge2000@163.com
+  If you find DBK Telemetry Script useful, please consider supporting the development by donating via **PayPal**: aliuge2000@163.com  
+  <br>When donating, feel free to include your email address — I will send you new features for early testing!
 
 ## Contact
    Team DBK Telemetry Script can be contacted by email at  <a href="mailto:liuhm2019@gmail.com">liuhm2019@gmail.com</a>
