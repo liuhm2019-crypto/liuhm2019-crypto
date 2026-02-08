@@ -2,4 +2,4 @@
   <img src="image/rotorflight.png" alt="Rotorflight" />
 </div>
 
-# Rotorflight  Telemetry Widget for RadioMaster TX15
+# Rotorflight  RadioMaster Remote Controller Telemetry Return Interface Script
