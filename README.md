@@ -18,7 +18,11 @@ This Lua script provides real-time telemetry monitoring for your Rotorflight , d
 - **Low Battery Alerts**: Visual and audio warnings (configurable thresholds)
 - **RSS Signal Monitoring**: Signal strength bar with loss counter
 - **Flight Timer Integration**: Automatic timer start/stop based on throttle
-- **Flight log recording function,**: displaying rotational speed, battery consumption, and performance rate curve function, for better analysis of battery performance parameters.
+- **Flight log recording function**: displaying rotational speed, battery consumption, and performance rate curve function, for better analysis of battery performance parameters.
+- **Vibration analysis**: provides real-time feedback on vibration information, assisting you in diagnosing the vibration sources of the machine.
+- **flight parameters**:The setting of flight parameters does not require entering the RF adjustment script interface. It can be directly set within this script interface.
+
+And many more...
 
 ## Requirements
 
