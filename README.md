@@ -33,7 +33,7 @@ And many more...
 ## Requirements
 
 - RadioMaster transmitter (or compatible Tx15 Tx16 series)
-- OpenTX 2.3.x or EdgeTX 2.8+ firmware installed
+- EdgeTX 2.8+ firmware installed
 - Rotorflight  with compatible telemetry receiver (elrs)
 - Telemetry link established (RF module and receiver bound)
 - MicroSD card (formatted FAT32)
