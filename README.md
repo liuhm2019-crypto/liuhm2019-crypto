@@ -40,6 +40,4 @@ And many more...
 
 ## production
  - GooSkyS2MAXTelemeteringScript
-  <blockquote>
-    <img src="image/S2MAX.jpg" width="300" />
-  </blockquote>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="image/S2MAX.jpg" width="300" />
